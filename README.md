@@ -7,10 +7,12 @@ An interactive Power BI analytics dashboard designed to monitor, evaluate, and o
 ##  Project Overview
 This project provides an in-depth analysis of Adidas's US sales metrics, operating profits, regional performance, and distribution methods. Built using **Power BI**, the dashboard equips decision-makers with actionable insights into revenue drivers, top-performing product lines, and geographic expansion opportunities.
 
-## 📷 Dashboard Preview
-![Cover Page](ADIDAS1.PNG)
-![Overview Page](ADIDAS2.PNG)
-![Decomposition Tree](ADIDAS3.PNG)
+##  Dashboard Preview
+<p align="center">
+  <img src="ADIDAS1.PNG" width="85%" alt="Cover Page"><br><br>
+  <img src="ADIDAS2.PNG" width="85%" alt="Sales Overview Page"><br><br>
+  <img src="ADIDAS3.PNG" width="85%" alt="Decomposition Tree Details">
+</p>
 ---
 
 ##  Key Business Metrics
