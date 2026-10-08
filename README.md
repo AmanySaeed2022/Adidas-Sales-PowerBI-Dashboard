@@ -48,12 +48,3 @@ This project provides an in-depth analysis of Adidas's US sales metrics, operati
 * **Data Modeling:** DAX (Data Analysis Expressions)
 * **Data Cleansing:** Power Query
 * **Advanced Features:** What-IF Analysis, Decomposition Tree, and Interactive Navigation Buttons
-
----
-
-##  Repository Structure
-```text
-├── Data/                   # Dataset files (Excel / CSV)
-├── Dashboard/              # Power BI (.pbix) dashboard file
-├── Screenshots/            # Dashboard preview images
-└── README.md               # Project documentation
